@@ -1,0 +1,176 @@
+body {
+    font-family: Arial, sans-serif;
+    color: white;
+    background-color: rgb(134, 56, 92);
+  }
+
+  .container {
+    width: 80%;
+    margin: 0 auto;
+  }
+
+  .logo {
+    float: left;
+    margin-top: 20px;
+    
+  }
+
+  .nav {
+    float: right;
+    margin-top: 20px;
+  }
+
+  .nav li {
+    display: inline-block;
+    margin-left: 20px;
+  }
+
+  .nav a {
+    color: white;
+    text-decoration: none;
+  }
+
+  .welcome {
+    clear: both;
+    margin: 40px 0;
+    padding: 20px;
+    text-align: center;
+    background-color: rgb(29, 102, 57);
+    color: rgb(255, 255, 255);
+    box-shadow: 5px 5px 10px gray;
+    height: 300px;
+    padding-top: 200px;
+  }
+
+  .welcome h1 {
+    font-size: 24px;
+    font-weight: bold;
+  }
+
+  .welcome p {
+    font-size: 16px;
+  }
+
+  .welcome button {
+    background-color: blue;
+    color: white;
+    border: none;
+    padding: 15px 30px;
+    font-size: 20px;
+    cursor: pointer;
+  }
+  .container1{
+      display: flex;
+      justify-content: space-around;
+  }
+  .feature-box {
+    width: 40%;
+    margin: 10px;
+    padding: 20px;
+    background-color: rgb(189, 138, 63);
+    border: 1px solid white;
+    box-shadow: 5px 5px 10px gray;
+    box-sizing: border-box;
+    float: left;
+    text-align: center;
+  }
+  .feature-box1 {
+    width: 40%;
+    margin: 10px;
+    padding: 20px;
+    background-color: rgb(189, 138, 63);
+    border: 1px solid white;
+    box-shadow: 5px 5px 10px gray;
+    box-sizing: border-box;
+    float: left;
+    text-align: center;
+    margin-left: 400px;
+  }
+  .feature-box h3 {
+    font-size: 24px;
+    font-weight: bold;
+  }
+
+  .feature-box p {
+    font-size: 16px;
+  }
+  .contact-form {
+    text-align: center;
+    margin: 50px auto; 
+}
+
+.contact-form h2 {
+    margin-bottom: 20px;
+}
+
+.contact-form p {
+    margin-bottom: 30px;
+}
+
+.form-group {
+    margin-bottom: 20px;
+}
+
+.form-group label {
+    display: block;
+    margin-bottom: 8px;
+}
+
+.form-group input,
+.form-group textarea {
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.form-group textarea {
+    resize: vertical;
+}
+
+.form-group button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
+.contact-form {
+    text-align: center;
+    margin: 50px auto;
+}
+
+.contact-form h2 {
+    margin-bottom: 20px;
+}
+
+.contact-form p {
+    margin-bottom: 30px;
+}
+
+.form-group {
+    margin-bottom: 20px;
+}
+
+.form-group label {
+    display: block;
+    margin-bottom: 8px;
+}
+
+.form-group input,
+.form-group textarea {
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.form-group textarea {
+    resize: vertical;
+}
+
+.form-group button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
